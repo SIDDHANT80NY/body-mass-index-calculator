@@ -1,1 +1,1 @@
-# BMI https://lina-bmi-calculator.herokuapp.com/
+# BMI https://bmi-exp6.herokuapp.com/
